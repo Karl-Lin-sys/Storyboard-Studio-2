@@ -1,0 +1,6 @@
+{
+  "name": "Storyboard Studio",
+  "description": "Generate visual storyboards from scripts using Gemini image generation, and refine ideas with a built-in AI chat assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
